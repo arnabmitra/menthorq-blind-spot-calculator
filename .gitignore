@@ -1,0 +1,10 @@
+# IntelliJ IDEA files
+Create a new file in your project root directory named `.gitignore` and add the following lines to it:
+
+.idea/
+*.iml
+```plaintext
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
